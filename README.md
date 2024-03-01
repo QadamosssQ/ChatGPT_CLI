@@ -14,11 +14,4 @@ After running the application, firstly you must to add api key from openai "sk-.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- OpenAI for providing the GPT-3.5 model.
-- .NET community for the amazing development tools and support.
-
 ---
-
-**Note:** This application interacts with OpenAI's GPT-3.5 model, so ensure compliance with OpenAI's usage policies and terms of service.
