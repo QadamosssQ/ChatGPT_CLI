@@ -14,4 +14,9 @@ After running the application, firstly you must to add api key from openai "sk-.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
 ---
+
+## ToDo:
+- add history.json
+- add settings.json
