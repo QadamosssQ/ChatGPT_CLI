@@ -1,0 +1,9 @@
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\bin\Debug\ChatGPT_CLI.exe
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\bin\Debug\ChatGPT_CLI.pdb
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\obj\Debug\ChatGPT_CLI.csproj.AssemblyReference.cache
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\obj\Debug\ChatGPT_CLI.csproj.CoreCompileInputs.cache
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\obj\Debug\ChatGPT_CLI.csproj.CopyComplete
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\obj\Debug\ChatGPT_CLI.exe
+C:\Users\sedki\RiderProjects\ChatGPT_CLI\ChatGPT_CLI\obj\Debug\ChatGPT_CLI.pdb
